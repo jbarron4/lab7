@@ -5,4 +5,7 @@ function init(){
     output.innerHTML=input;
     alert('Joseph Barron: '+input);
   }
+  var button=document.getElementById('entrybutton');
+  button.addEventListener('click', eventMessageFunction);
+}
 window.addEventListener('load', init);
