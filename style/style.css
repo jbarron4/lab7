@@ -13,11 +13,12 @@
 
 #entrybutton {
   text-align: center;
-  width: 100px;
+  width: 200px;
   margin: auto;
   padding: 5em 0;
   font-size: 30px;
   font-weight: bold;
+  border-width: 5px;
   border-radius: 25px;
   border-color: #000000;
   color: #ffffff;
